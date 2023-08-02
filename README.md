@@ -47,7 +47,7 @@ Before we run the project, make sure that you are having MongoDB in your local s
 ### Step 1: Clone the repository in your local machine 
 
 ```bash
-git clone https://github.com/sinoymanna/Sensor-Fault-Detection.git
+git clone https://github.com/sinoymanna/sensor-fault-detection.git
 ```
 
 ### Step 2- Create a conda environment after opening the repository
